@@ -1,8 +1,8 @@
 ### 👋🏻 Hi there 
 
-<!--
-**alu10/alu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I am a student wanting to learn and at the moment I know a lot of HTML things along with CSS and some java, however I would like to start learning databases faster since I would like an amount to be able to take it to applied cases
+I am a student eager to learn and so far I have worked with HTML, CSS and java, however I would like to start learning databases faster since I would like a quantity to be able to take it to applied cases.
+
+Next year I plan to learn JavaScript and the implementation of the backend in web pages.
 
 
 ## Skills:
