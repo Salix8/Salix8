@@ -7,9 +7,11 @@ Next year I plan to learn JavaScript, PHP and the implementation of the backend 
 
 ## Skills:
 [![HTML](https://img.shields.io/badge/HTML5-FA7343?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS3-339933?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS3-008DDD?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
-[![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-F00D28?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 
 ## Where to find me?
