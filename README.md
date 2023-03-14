@@ -15,7 +15,6 @@ Next year I plan to learn JavaScript, PHP and the implementation of the backend 
 </br>
 [![C#](https://img.shields.io/badge/CSharp-95478e?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=101010)]()
 </br>
-Navision
 
 
 ## Where to find me?
