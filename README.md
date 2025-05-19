@@ -1,8 +1,8 @@
 ### 👋🏻 Hi there 
 
-I am a student eager to learn and so far I have worked with HTML, CSS and java, however I would like to start learning databases faster since I would like a quantity to be able to take it to applied cases.
+Hi, I'm a student eager to learn. I am currently studying Game Design and Development at the University Jaume I (UJI). I am also a technician in Design and web development (DAW).
 
-Next year I plan to learn JavaScript, PHP and the implementation of the backend in web pages.
+I am still not very clear about what I want to work but I like programming, databases and while doing the degree of Design and development of video games I have realized that I like 3D design.
 
 
 <!--## Skills:
