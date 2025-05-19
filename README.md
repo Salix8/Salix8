@@ -5,7 +5,7 @@ I am a student eager to learn and so far I have worked with HTML, CSS and java, 
 Next year I plan to learn JavaScript, PHP and the implementation of the backend in web pages.
 
 
-## Skills:
+<!--## Skills:
 [![HTML](https://img.shields.io/badge/HTML5-FA7343?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS3-008DDD?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -14,6 +14,7 @@ Next year I plan to learn JavaScript, PHP and the implementation of the backend 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
 [![C#](https://img.shields.io/badge/CSharp-95478e?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=101010)]()
+-->
 </br>
 
 
